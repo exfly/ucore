@@ -43,4 +43,3 @@ int
 getcwd(char *buffer, size_t len) {
     return sys_getcwd(buffer, len);
 }
-
