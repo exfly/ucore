@@ -1,6 +1,6 @@
 # ucore
 
-fork from https://github.com/chyyuu/ucore_os_lab
+fork from https://github.com/chyyuu/ucore_os_lab and add some interesting feature
 
 自己整理的资料：
 
